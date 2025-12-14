@@ -1,3 +1,4 @@
+//definiçao de variaveis e valores; entrada de dados com cin
 #include <iostream>
 
 using namespace std;

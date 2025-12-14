@@ -1,3 +1,6 @@
+// definindo multiplas variaveis de mesmo tipo na mesma definiçao.
+// definindo constantes usando #define
+
 #include <iostream>
 using namespace std;
 

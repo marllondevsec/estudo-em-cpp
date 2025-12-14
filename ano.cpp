@@ -1,3 +1,5 @@
+// este programa define o ano de nascimento a partir de dados de entrada
+// usando operaçoes matematicas basicas.
 #include <iostream>
 
 using namespace std;

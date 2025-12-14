@@ -1,3 +1,4 @@
+// saida de dados utilizando cout.
 # include <iostream>
 
 using namespace std;
