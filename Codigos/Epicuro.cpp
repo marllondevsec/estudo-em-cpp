@@ -48,7 +48,7 @@ int main(){
 
 }else{ std::cout << "Entao ele nao e onipotente";}
 
-}}else{ bom: std:: cout << "entao ele nao e bom 1";}
+}}else{ bom: std:: cout << "entao ele nao e bom ";}
 
 }else{ std::cout << "entao ele nao e onipotente:\n";}
 
